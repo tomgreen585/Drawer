@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Drawer
+comment0.text=\ Draws\ little\ pictures\ on\ the\ graphics\ pane\n
+comment1.params=
+comment1.target=void\ faceWithHat1()
+comment2.params=
+comment2.target=void\ faceWithHat2()
+comment3.params=
+comment3.target=void\ faceWithHat3()
+comment4.params=x\ y\ faceWd\ faceHt
+comment4.target=void\ faceWithHat4(double,\ double,\ double,\ double)
+comment4.text=Draw\ an\ orange\ face\ with\ a\ brimmed\ hat
+comment5.params=x\ y\ faceWd\ faceHt\ colorFace\ colorHat
+comment5.target=void\ faceWithHat5(double,\ double,\ double,\ double,\ java.awt.Color,\ java.awt.Color)
+comment5.text=Draw\ an\ orange\ face\ with\ a\ brimmed\ hat
+comment6.params=x\ y\ faceWd\ faceHt
+comment6.target=void\ faceWithHatStandard(double,\ double,\ double,\ double)
+comment7.params=
+comment7.target=void\ fourFaces()
+comment7.text=Draw\ four\ faces
+comment8.params=
+comment8.target=void\ clear()
+numComments=9
